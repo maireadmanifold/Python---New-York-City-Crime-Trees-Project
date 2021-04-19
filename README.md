@@ -1,7 +1,7 @@
 # Python - New-York-City-Crime-&-Trees-Project
 
-This project follows on from the "USA Major Cities Crime Project" which investigated crime in several of USA's cities.
-This project looks at the level of street trees planting in New York city and how it compares with level of crime.  
+This project is a follow-on project from the "USA Major Cities Crime Project" which investigated crime in several of USA's cities.
+In addition to looking at census demographics and crime rates, this project incorporated the level of street trees planting in the visualisation of New York geographical data. 
 
 ## Data Source
 API street tree data was scraped from New York's open data portal: 
